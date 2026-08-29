@@ -1,4 +1,4 @@
-# Autonomous Ransomware Readiness Assessment Tool
+# Proactive Ransomware Assessment Tool
 
 **Project ID:** PRJ_167
 **Category:** AI-Driven Breach and Attack Simulation (BAS) Platform
