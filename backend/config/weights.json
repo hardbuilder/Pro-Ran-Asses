@@ -1,0 +1,15 @@
+{
+  "schema_version": "prototype-1",
+  "weighting": {
+    "type": "equal",
+    "note": "Prototype/configurable weighting. AHP-based expert-derived weights are part of the planned research phase and are currently marked as pending. When available, set dimension_weights and question_weights to the expert-derived values and type to 'expert'.",
+    "dimension_weights": null,
+    "question_weights": null
+  },
+  "thresholds": {
+    "low": 50,
+    "high": 80
+  },
+  "weak_dimension_threshold": 60,
+  "classification_labels": ["Low", "Moderate", "High"]
+}

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Model artifacts (trained locally)
+backend/model/models/*.joblib
+backend/model/models/*.npy
+backend/model/models/*.json
+backend/data/*.csv
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
